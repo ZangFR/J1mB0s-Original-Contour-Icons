@@ -34,32 +34,3 @@ Example:<br>
 
 World_of_Tanks\mods\1.4.1.2\J1mB0s_icons_v1500v2.wotmod<br>
 
-CHANGELOGS:
-<quote>
-<b>Version v4</b>
-<br>
-Added icons:
-<br>
-. germany-G141_VK7501K <br>
-. ussr-R161_T_116
-<br>
-<b>Version v3</b>
-<br>
-. better sharpen <br>
-. better contrast <br>
-. Compatibility with 1.5 
-<br>
-<b>Version 1.5.0.0 v2</b>
-<br>
-Compatibility => 1.5.0.0_CT
-<br>
-Added Icons:
-<br>
-.czech-Cz13_T_27<br>
-.france-F85_M4A1_FL10<br>
-.usa-A123_T78<br>
-.sweden-S27_UDES_16 <br>
-.sweden-S28_UDES_15_16 <br>
-.sweden-S29_UDES_14_5 <br>
-.ussr-R135_T_103<br>
-</quote>
