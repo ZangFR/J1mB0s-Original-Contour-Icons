@@ -35,7 +35,7 @@ Example:<br>
 World_of_Tanks\mods\1.4.1.2\J1mB0s_icons_v1500v2.wotmod<br>
 
 CHANGELOGS:
-<br>
+<spoiler=CHANGELOGS>
 <b>Version v4</b>
 <br>
 Added icons:
@@ -62,3 +62,4 @@ Added Icons:
 .sweden-S28_UDES_15_16 <br>
 .sweden-S29_UDES_14_5 <br>
 .ussr-R135_T_103<br>
+</spoiler>
