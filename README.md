@@ -5,54 +5,61 @@
 <img src=https://wgmods.net/media/mod_files/VsYh62J_zGi5fyq.jpg>
 <br><br>
 Originally made by J1mB091
-
+<br>
 Exact colors as original J1mB0’s Contour Icons Mod.
-
-Heavy Tanks = Brown
-Medium Tanks = Green
-Light Tanks (included all Wheeled Vehicles) = Yellow
-Tank Destroyers = Blue
-Self Propelled Guns (Arty) = Red
+<br>
+Heavy Tanks = Brown<br>
+Medium Tanks = Green<br>
+Light Tanks (included all Wheeled Vehicles) = Yellow<br>
+Tank Destroyers = Blue<br>
+Self Propelled Guns (Arty) = Red<br>
 
 contour icons dimension remained unchanged
-
+<br>
 Contains high quality atlas and icon files.
-
+<br>
 atlas files assembled with high quality png’s
 optimized with lossless compression
-
+<br>
 Assembled as wotmod package.
-
+<br>
 single file installation
 <br><br> 
 >>>  <a href=https://mega.nz/#F!vU5WjKjZ!w0bU-WAPsBaLNwK613a-7Q>MEGA</a> (à jour en 1er)  <<<
-
+<br>
 >>>  <a href=https://wgmods.net/3260/WGMODS>WGMODS</a>  <<<
 <br>
-INSTALLATION
+INSTALLATION<br>
 Paste zip archive in mods dir of the game.
-
-Example:
+<br>
+Example:<br>
 World_of_Tanks\mods\1.4.1.2\J1mB0s_icons_v1500v2.wotmod 
-
+<br>
 CHANGELOGS:
-Version v4
+<br>
+<b>Version v4</b><br>
 Added icons:
-. germany-G141_VK7501K 
+<br>
+. germany-G141_VK7501K <br>
 . ussr-R161_T_116
+<br>
+<b>Version v3</b><br>
+* better sharpen <br>
+* better contrast <br>
+* Compatibility with 1.5 <br>
 
-Version v3
-* better sharpen * better contrast * Compatibility with 1.5
+<b>Version 1.5.0.0 v2</b><br>
 
-Version 1.5.0.0 v2
 Compatibility => 1.5.0.0_CT 
+<br>
 Added Icons: 
-.czech-Cz13_T_27 
-.france-F85_M4A1_FL10 
-.usa-A123_T78 
-.sweden-S27_UDES_16 
-.sweden-S28_UDES_15_16 
-.sweden-S29_UDES_14_5 
+<br>
+.czech-Cz13_T_27 <br>
+.france-F85_M4A1_FL10 <br>
+.usa-A123_T78 <br>
+.sweden-S27_UDES_16 <br>
+.sweden-S28_UDES_15_16 <br>
+.sweden-S29_UDES_14_5 <br>
 .ussr-R135_T_103
 
 </center>
