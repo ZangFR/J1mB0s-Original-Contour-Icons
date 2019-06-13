@@ -25,7 +25,7 @@ single file installation<br>
 
 <b>Alternative Downloads:</b> <br>
 <a href=https://bit.ly/2EaZhXN>MEGA</a> ( MAJ at first ) <br>
-<a href=https://wgmods.net/3260/WGMODS>WGMODS</a> <br>
+<a href=https://wgmods.net/3260/>WGMODS</a> <br>
 
 INSTALLATION<br>
 
