@@ -33,5 +33,5 @@ Paste zip archive in mods dir of the game.<br>
 
 Example:<br>
 
-World_of_Tanks\mods\1.6.0.4\J1mB0s_icons_v1604v1.wotmod<br>
+World_of_Tanks\mods\1.6.0.6\J1mB0s_icons_v1606v1.wotmod<br>
 
